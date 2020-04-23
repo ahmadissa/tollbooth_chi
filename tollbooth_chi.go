@@ -1,8 +1,8 @@
 package tollbooth_chi
 
 import (
-	"github.com/didip/tollbooth"
-	"github.com/didip/tollbooth/limiter"
+	"github.com/ahmadissa/tollbooth"
+	"github.com/ahmadissa/tollbooth/limiter"
 	"net/http"
 )
 
